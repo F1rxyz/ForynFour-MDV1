@@ -103,9 +103,9 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
-global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.stiker_wait = '⏳ Stiker sedang Proses  🤓'
+global.packname = 'ShellTear:3'
+global.author = 'By MoonLightAngels'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
